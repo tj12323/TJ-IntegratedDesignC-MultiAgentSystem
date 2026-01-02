@@ -1,0 +1,107 @@
+[
+  {
+    "scenario": 0,
+    "cars": [
+      {"index": 0, "x": 460.50, "y": 13.83},
+      {"index": 1, "x": 177.06, "y": 477.97},
+      {"index": 2, "x": 427.23, "y": 538.75},
+      {"index": 3, "x": 179.60, "y": 814.81},
+      {"index": 4, "x": 311.23, "y": 89.43}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 711, "startY": 235, "endX": 605, "endY": 605},
+      {"index": 1, "startX": 91, "startY": 874, "endX": 416, "endY": 416},
+      {"index": 2, "startX": 580, "startY": 280, "endX": 68, "endY": 68}
+    ]
+  },
+  {
+    "scenario": 1,
+    "cars": [
+      {"index": 0, "x": 645.57, "y": 860.24},
+      {"index": 1, "x": 627.52, "y": 960.15},
+      {"index": 2, "x": 72.73, "y": 784.70},
+      {"index": 3, "x": 79.49, "y": 274.19},
+      {"index": 4, "x": 346.48, "y": 617.39}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 177, "startY": 249, "endX": 721, "endY": 721},
+      {"index": 1, "startX": 240, "startY": 113, "endX": 251, "endY": 251},
+      {"index": 2, "startX": 734, "startY": 863, "endX": 174, "endY": 174}
+    ]
+  },
+  {
+    "scenario": 2,
+    "cars": [
+      {"index": 0, "x": 732.23, "y": 177.61},
+      {"index": 1, "x": 437.21, "y": 435.95},
+      {"index": 2, "x": 192.10, "y": 642.62},
+      {"index": 3, "x": 678.03, "y": 604.38},
+      {"index": 4, "x": 668.61, "y": 280.59}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 458, "startY": 834, "endX": 70, "endY": 70},
+      {"index": 1, "startX": 174, "startY": 229, "endX": 332, "endY": 332},
+      {"index": 2, "startX": 377, "startY": 276, "endX": 65, "endY": 65}
+    ]
+  },
+  {
+    "scenario": 3,
+    "cars": [
+      {"index": 0, "x": 428.78, "y": 468.87},
+      {"index": 1, "x": 196.07, "y": 327.08},
+      {"index": 2, "x": 168.43, "y": 721.77},
+      {"index": 3, "x": 365.40, "y": 11.45},
+      {"index": 4, "x": 704.23, "y": 608.75}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 534, "startY": 245, "endX": 404, "endY": 404},
+      {"index": 1, "startX": 170, "startY": 589, "endX": 480, "endY": 480},
+      {"index": 2, "startX": 187, "startY": 673, "endX": 419, "endY": 419}
+    ]
+  },
+  {
+    "scenario": 4,
+    "cars": [
+      {"index": 0, "x": 193.17, "y": 700.35},
+      {"index": 1, "x": 542.27, "y": 68.51},
+      {"index": 2, "x": 573.62, "y": 262.57},
+      {"index": 3, "x": 96.07, "y": 567.83},
+      {"index": 4, "x": 293.76, "y": 212.46}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 94, "startY": 603, "endX": 295, "endY": 295},
+      {"index": 1, "startX": 296, "startY": 120, "endX": 420, "endY": 420},
+      {"index": 2, "startX": 740, "startY": 407, "endX": 244, "endY": 244}
+    ]
+  },
+  {
+    "scenario": 5,
+    "cars": [
+      {"index": 0, "x": 263.49, "y": 271.60},
+      {"index": 1, "x": 738.09, "y": 243.29},
+      {"index": 2, "x": 552.13, "y": 106.10},
+      {"index": 3, "x": 411.13, "y": 509.52},
+      {"index": 4, "x": 63.46, "y": 264.22}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 86, "startY": 859, "endX": 613, "endY": 613},
+      {"index": 1, "startX": 401, "startY": 403, "endX": 610, "endY": 610},
+      {"index": 2, "startX": 703, "startY": 273, "endX": 157, "endY": 157}
+    ]
+  },
+  {
+    "scenario": 6,
+    "cars": [
+      {"index": 0, "x": 385.23, "y": 27.80},
+      {"index": 1, "x": 553.37, "y": 237.06},
+      {"index": 2, "x": 167.75, "y": 619.99},
+      {"index": 3, "x": 626.42, "y": 113.54},
+      {"index": 4, "x": 125.06, "y": 934.48}
+    ],
+    "passengers": [
+      {"index": 0, "startX": 403, "startY": 867, "endX": 93, "endY": 93},
+      {"index": 1, "startX": 184, "startY": 87, "endX": 104, "endY": 104},
+      {"index": 2, "startX": 540, "startY": 277, "endX": 161, "endY": 161}
+    ]
+  }
+]

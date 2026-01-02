@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: vehicle-routing-sim
+
+  web:
+    resources:
+      static-locations: classpath:/static/dist/
+
+server:
+  port: 8888
+
+
+# 地图对象存储路径
+map:
+  object:
+    filepath: "classpath:map/map_object/map_object.ser"
+  file: "classpath:map/map_image.bmp"
+
+car:
+  nums: 5
+
+passenger:
+  nums: 3
+
+
+  # 设置日志编码
+logging:
+  charset:
+    console: UTF-8
+    file: UTF-8
